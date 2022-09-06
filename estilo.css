@@ -1,0 +1,37 @@
+ body {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ main {
+     width: 960px;
+     height: auto;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: cornsilk;
+ }
+
+ body {
+
+     font-size: 50%;
+     background: linear-gradient(68.deg, #2F2325 16.62%, #BE5D52 85.61%5);
+ }
+
+ .corpo {
+     font-size: 100%;
+     background: rgba(255, 0, 0, 0.5);
+ }
+
+ header {
+     height: 153px;
+     background-color: darkgray;
+     margin-top: 30px;
+ }
+
+ header h1 {
+     margin: 0;
+     padding: 0;
+ }
+
+ header h1 a {
+     display: block;
+ }
